@@ -1,1 +1,1 @@
-module github.com/dydx/testmod
+module github.com/dydx/testmod/v2
